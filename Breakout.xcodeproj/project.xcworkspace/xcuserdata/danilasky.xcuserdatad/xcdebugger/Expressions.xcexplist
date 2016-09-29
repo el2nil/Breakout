@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameView.animating.didset:GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballBehavior.collider.boundaryIdentifiers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BallBehavior.((itemBehavior in _EC658C76B5328BC6C4671061F508B83E)).(variable initialization expression).(closure #1):BallBehavior.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameView.collisionBehavior(UICollisionBehavior, endedContactForItem : UIDynamicItem, withBoundaryIdentifier : NSCopying?) -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentVelocity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.dynamicAnimatorWillResume(UIDynamicAnimator) -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballBehavior.collider.boundaryIdentifiers?.count">
+            </PersistentString>
+            <PersistentString
+               value = "ballBehavior">
+            </PersistentString>
+            <PersistentString
+               value = "boundaries">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingsTableViewController.viewDidAppear(Bool) -&gt; ():SettingsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gravitySwitch">
+            </PersistentString>
+            <PersistentString
+               value = "gameView.realGravity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.addBall() -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballBehavior.collider.boundaryIdentifiers?.count">
+            </PersistentString>
+            <PersistentString
+               value = "lineOfPadlle">
+            </PersistentString>
+            <PersistentString
+               value = "ball!.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.addWalls() -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "offset(point: bounds.lowerLeft, x: wallThickness/2, y: 0)">
+            </PersistentString>
+            <PersistentString
+               value = "offset(point: bounds.upperLeft, x: wallThickness/2, y: 0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static GameSettings.pushPower.setter:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pushPower">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static GameSettings.pushPower.getter:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(defaults.object(forKey: Keys.PushPower) as? CGFloat) ?? 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BrickView.drawRect(CGRect) -&gt; ():BrickView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.pushPower.didset:GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pushPower">
+            </PersistentString>
+            <PersistentString
+               value = "GameSettings.pushPower">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BreakoutViewController.viewDidDisappear(Bool) -&gt; ():BreakoutViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameView.ballBehavior.collider.boundaryIdentifiers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PaddleView.boundary.getter:PaddleView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BreakoutViewController.gameView(GameView, missedBall : BallView) -&gt; ():BreakoutViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "attempts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.realGravity.didset:GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "realGravity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.updateGravity() -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gravity">
+            </PersistentString>
+            <PersistentString
+               value = "realGravity">
+            </PersistentString>
+            <PersistentString
+               value = "ballBehavior.dynamicAnimator">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BallBehavior.gravityActive.didset:BallBehavior.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gravity.magnitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.(paddleCenter in _5FC5F21C3FBA8F670CF7A1072BA029B9).didset:GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "paddleView">
+            </PersistentString>
+            <PersistentString
+               value = "paddle.boundary">
+            </PersistentString>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+            <PersistentString
+               value = "ballView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BreakoutViewController.viewDidAppear(Bool) -&gt; ():BreakoutViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameView.ballBehavior.collider">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.drawRect(CGRect) -&gt; ():GameView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameView.addBricks() -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds.width - wallThickness*2 - brickSize.width * numberOfBricksInLine">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameView.collisionBehavior(UICollisionBehavior, beganContactForItem : UIDynamicItem, withBoundaryIdentifier : NSCopying?, atPoint : CGPoint) -&gt; ():GameView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentVelocity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
