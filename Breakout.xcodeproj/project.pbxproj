@@ -16,6 +16,7 @@
 		4F13C36F1D8968C900F10852 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F13C36E1D8968C900F10852 /* Extensions.swift */; };
 		4F13C3711D89BAC500F10852 /* BallBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F13C3701D89BAC500F10852 /* BallBehavior.swift */; };
 		4F1BDD431D9169C3003B5A4F /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F1BDD421D9169C3003B5A4F /* SettingsTableViewController.swift */; };
+		4F83BF381D9DB80900982533 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4F83BF371D9DB80900982533 /* README.md */; };
 		4FB7412F1D8BFE330053FF03 /* BallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB7412E1D8BFE330053FF03 /* BallView.swift */; };
 		4FB741331D8C0DE70053FF03 /* SphereView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB741321D8C0DE70053FF03 /* SphereView.swift */; };
 		4FB741351D8C3B570053FF03 /* PaddleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB741341D8C3B570053FF03 /* PaddleView.swift */; };
@@ -35,6 +36,7 @@
 		4F13C36E1D8968C900F10852 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		4F13C3701D89BAC500F10852 /* BallBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BallBehavior.swift; sourceTree = "<group>"; };
 		4F1BDD421D9169C3003B5A4F /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
+		4F83BF371D9DB80900982533 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		4FB7412E1D8BFE330053FF03 /* BallView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BallView.swift; sourceTree = "<group>"; };
 		4FB741321D8C0DE70053FF03 /* SphereView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SphereView.swift; sourceTree = "<group>"; };
 		4FB741341D8C3B570053FF03 /* PaddleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaddleView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				4F13C35E1D8958A500F10852 /* Assets.xcassets */,
 				4F13C3601D8958A500F10852 /* LaunchScreen.storyboard */,
 				4F13C3631D8958A500F10852 /* Info.plist */,
+				4F83BF371D9DB80900982533 /* README.md */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				4F1BDD431D9169C3003B5A4F /* SettingsTableViewController.swift in Sources */,
 				4F13C36D1D895AFD00F10852 /* GameView.swift in Sources */,
 				4FB7412F1D8BFE330053FF03 /* BallView.swift in Sources */,
+				4F83BF381D9DB80900982533 /* README.md in Sources */,
 				4FB741371D8EE8C00053FF03 /* BrickView.swift in Sources */,
 				4FB741391D9014D00053FF03 /* AttemptsView.swift in Sources */,
 				4FB741331D8C0DE70053FF03 /* SphereView.swift in Sources */,
